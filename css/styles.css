@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h2{
+  font-size: 18px;
+  font-weight: 500;
+  padding-bottom: 20px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+hr{
+  border-color: white;
+  margin-top: 50px;
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  width: 100%;
+}
+
+
+
+.foot{
+  background-color: #13181c;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 50px;
+}
+
+
+.col-4 p{
+  font-size: 15px;
+  width: 85%;
+}
+.col-4 button{
+  margin-bottom: 20px;
+  padding: 10px 30px;
+}
+
+
+.col-2{
+  text-align: left;
+}
+.col-2 ul{
+  list-style-type: none;
+  text-decoration: none;
+}
+.work-list{
+  padding: 0;
+}
+.work-list li{
+  padding-bottom: 7px;
+}
+.work-list a{
+  color: rgba(255, 255, 255, 0.5);
+  transition: 0.5s;
+}
+.work-list a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+
+
+.bottom-last{
+  margin-bottom: 50px;
+}
+.social-links{
+  position: relative;
+  text-align: right;
+}
+.icons{
+  position: relative;
+
+}
+.icons i{
+  padding-right: 20px;
+  cursor: pointer;
+}
+.icons i:hover{
+  opacity: 0.6;
+  transition: 1s;
+}
