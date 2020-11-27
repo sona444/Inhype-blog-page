@@ -1,0 +1,104 @@
+.container{
+    float:left;
+}
+.row{
+    background-color: #023dd9;
+    height: 60px;
+    align-items: center;
+    width:100vw;
+}
+.white{
+    color:white;
+}
+#new{
+    background-color:#4cc493;
+    text-align: center;
+    color:white;
+    border-radius:6px;
+    font-size:12px;
+    padding:6px;
+}
+.row .col-md-4{
+    color:white;
+    margin-top:13px;
+    float:left;
+}
+#readmore{
+    font-weight:bold;
+    color:white;
+}
+.col-md-8{
+    display:block;
+    margin:0 auto;
+}
+.row1{
+    height:55px;
+    width:100vw;
+    margin:0 60px 0 60px;
+   display:block;
+}
+.col-md-9{
+    float:left;
+}
+.col-md-9 i{
+    padding:5px;
+    float:left;
+}
+.navbar-expand-sm{
+    float:left;
+    width:115%;
+    height:auto;
+    font-size:15px;
+    border-bottom:1px solid grey;
+}
+.nav-link{
+    color:black;
+}
+.nav-link:hover{
+    color:blue;
+}
+#register{
+    position:absolute;
+    right:0;
+}
+.row2{
+    width:115%;
+    margin:10px 60px 10px 60px;
+}
+.navbar-expand{
+    width:80%;
+    float:left;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+    margin-top: 0;
+}
+#lifestyle{
+    width:100vw;
+}
+#lifestyle li{
+    float:left;
+}
+#subscribe{
+    background-color:rgb(248, 8, 156);
+    color:white;
+    float:left;
+    padding:10px;
+    border-radius:5px;
+}
+#find{
+    width:30px;
+    height:30px;
+    background-color: lightgrey;
+    color:black;
+    float:left;
+    margin:10px;
+    text-align: center;
+
+}
+#find:hover{
+    background-color: black;
+    color:lightgrey;
+}
